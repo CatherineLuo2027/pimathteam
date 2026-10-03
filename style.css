@@ -184,8 +184,9 @@ a {
 
 .google-embed {
   width: 100%;
-  height: 700px;
+  height: 390px;
   border: 0;
+  display: block;
 }
 
 .calendar-embed {
@@ -241,6 +242,14 @@ a {
 
   .card-grid {
     grid-template-columns: 1fr;
+  }
+
+    .google-embed {
+    height: 430px;
+  }
+  
+  .calendar-embed {
+    height: 650px;
   }
 
 }
