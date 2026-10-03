@@ -1,1 +1,1 @@
-# pimathteam
+Paideia Math Team website
